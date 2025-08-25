@@ -7,7 +7,8 @@
 ## Server จีน
 
 ### Season 4
-[[SS4 Server จีน - Fourth Age Preview - Naval Combat Gameplay Rules Connection, Conversion, Combat!\|SS4 Server จีน - Fourth Age Preview - Naval Combat Gameplay Rules Connection, Conversion, Combat!]]
-[[SS4 Server จีน - Era IV Preview - Acquisition, Abilities, and Modification of Naval Ships\|SS4 Server จีน - Era IV Preview - Acquisition, Abilities, and Modification of Naval Ships]]
-[[SS4 Server จีน - Analysis of Naval Warfare Strategy for the Fourth Era\|SS4 Server จีน - Analysis of Naval Warfare Strategy for the Fourth Era]]
-[[SS4 Server จีน - Era IV Preview - Land Clearing Strategy Share, Clear Land Easily with Low Losses\|SS4 Server จีน - Era IV Preview - Land Clearing Strategy Share, Clear Land Easily with Low Losses]]
+- [[Civilization - Eras & Allies/SS4 Server จีน - Fourth Age Preview - Naval Combat Gameplay Rules Connection, Conversion, Combat!\|SS4 Server จีน - Fourth Age Preview - Naval Combat Gameplay Rules Connection, Conversion, Combat!]]
+- [[Civilization - Eras & Allies/SS4 Server จีน - Era IV Preview - Acquisition, Abilities, and Modification of Naval Ships\|SS4 Server จีน - Era IV Preview - Acquisition, Abilities, and Modification of Naval Ships]]
+- [[Civilization - Eras & Allies/SS4 Server จีน - Analysis of Naval Warfare Strategy for the Fourth Era\|SS4 Server จีน - Analysis of Naval Warfare Strategy for the Fourth Era]]
+- [[Civilization - Eras & Allies/SS4 Server จีน - Era IV Preview - Land Clearing Strategy Share, Clear Land Easily with Low Losses\|SS4 Server จีน - Era IV Preview - Land Clearing Strategy Share, Clear Land Easily with Low Losses]]
+- [[Civilization - Eras & Allies/SS4 Server จีน - Brilliant Skills Are Coming Soon! Lineup Composition is About to Get More Diverse\|SS4 Server จีน - Brilliant Skills Are Coming Soon! Lineup Composition is About to Get More Diverse]]
