@@ -8,7 +8,7 @@ Posted by: 世界启元手游 (World启元 Mobile Game)
 
 Edited: November 12, 2024, 19:57
 
-https://www.bilibili.com/opus/998884422394576921?spm_id_from=333.1387.0.0
+https://www.bilibili.com/opus/998884422394576921
 
 Player Submission | A Preliminary Analysis of the Upcoming Brilliant Skills
 
@@ -19,7 +19,7 @@ As the Eras have progressed, our Pioneers, as members of this journey of civiliz
 
 To help everyone better understand these Brilliant Skills and to open up more possibilities for lineup compositions, we have invited a community strategy group to provide a preliminary analysis.
 
-https://www.bilibili.com/opus/999331451214233616?spm_id_from=333.1387.0.0
+https://www.bilibili.com/opus/999331451214233616
 
 ---
 
