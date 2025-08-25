@@ -3,6 +3,7 @@
 ---
 
 ## Era IV Preview | Land Clearing Strategy Share, Clear Land Easily with Low Losses
+translated from: https://www.bilibili.com/opus/1002658818215116808
 
 World of启元 Mobile Game November 22, 2024, 23:08
 
