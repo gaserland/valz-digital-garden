@@ -39,7 +39,7 @@ After 1 turn of preparation, deals intellect-based damage once to 2 enemy heroes
 
 ![SS3 Server ญี่ปุ่น - Jang Bogo (張保皐)-1756187870217.webp](/img/user/_attachments/SS3%20Server%20%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99%20-%20Jang%20Bogo%20(%E5%BC%B5%E4%BF%9D%E7%9A%90)-1756187870217.webp)
 
-#### **1. General of Pacifying Seas (鎮海将軍)**
+#### 1. General of Pacifying Seas (鎮海将軍)
 
 **Activation Effect (アクティベート効果)**
 
@@ -49,11 +49,11 @@ After 1 turn of preparation, deals intellect-based damage once to 2 enemy heroes
 
 - Damage dealt by your intellect (before combat) increases by 16%. Additionally, when your innate skills trigger burn damage, the number of stacks of the burn status consumed becomes 3.
 
-#### **2. Intellect (知謀)**
+#### 2. Intellect (知謀)
 
 - Intellect (before combat) increases by 10 points.
 
-#### **3. Agility (敏捷)**
+#### 3. Agility (敏捷)
 
 - Agility (before combat) increases by 12 points.
 
