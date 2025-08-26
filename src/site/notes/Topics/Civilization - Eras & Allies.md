@@ -12,4 +12,8 @@
 - [[Civilization - Eras & Allies/SS4 Server จีน - Analysis of Naval Warfare Strategy for the Fourth Era\|SS4 Server จีน - Analysis of Naval Warfare Strategy for the Fourth Era]]
 - [[Civilization - Eras & Allies/SS4 Server จีน - Era IV Preview - Land Clearing Strategy Share, Clear Land Easily with Low Losses\|SS4 Server จีน - Era IV Preview - Land Clearing Strategy Share, Clear Land Easily with Low Losses]]
 - [[Civilization - Eras & Allies/SS4 Server จีน - Brilliant Skills Are Coming Soon! Lineup Composition is About to Get More Diverse\|SS4 Server จีน - Brilliant Skills Are Coming Soon! Lineup Composition is About to Get More Diverse]]
+
+## Server ญี่ปุ่น
+
+### Season 3
 - [[Civilization - Eras & Allies/SS3 Server ญี่ปุ่น - Jang Bogo (張保皐)\|SS3 Server ญี่ปุ่น - Jang Bogo (張保皐)]]
