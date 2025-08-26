@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/civilization-eras-and-allies/ss-3-server-mary-read/","tags":["#fleetingnote"]}
+{"dg-publish":true,"permalink":"/civilization-eras-and-allies/ss-3-server-mary-read/","tags":["#fleetingnote","Server-ญี่ปุ่น"]}
 ---
 
 ## Mary Read (メアリ・リード)
@@ -45,7 +45,7 @@ If your troops' strength is below 50%, your damage taken (passive) decreases by 
 
 ![SS3 Server ญี่ปุ่น - Mary Read (メアリ・リード)-1756189504135.webp](/img/user/_attachments/SS3%20Server%20%E0%B8%8D%E0%B8%B5%E0%B9%88%E0%B8%9B%E0%B8%B8%E0%B9%88%E0%B8%99%20-%20Mary%20Read%20(%E3%83%A1%E3%82%A2%E3%83%AA%E3%83%BB%E3%83%AA%E3%83%BC%E3%83%89)-1756189504135.webp)
 
-#### **1. Blazing Maiden (燃え盛る淑女)**
+#### 1. Blazing Maiden (燃え盛る淑女)
 
 **Activation Effect (アクティベート効果)**
 
@@ -55,11 +55,11 @@ If your troops' strength is below 50%, your damage taken (passive) decreases by 
 
 - The activation rate of **Disarm** and **Silence** from your innate skills increases by 20%.
 
-#### **2. Enchantress (妖艶)**
+#### 2. Enchantress (妖艶)
 
 - Attacks from male enemy heroes (before combat) decrease by 4 points.
 
-#### **3. Intellect (知謀)**
+#### 3. Intellect (知謀)
 
 - Intellect (before combat) increases by 10 points.
 
