@@ -17,3 +17,4 @@
 
 ### Season 3
 - [[Civilization - Eras & Allies/SS3 Server ญี่ปุ่น - Jang Bogo (張保皐)\|SS3 Server ญี่ปุ่น - Jang Bogo (張保皐)]]
+- [[Civilization - Eras & Allies/SS3 Server ญี่ปุ่น - Mary Read (メアリ・リード)\|SS3 Server ญี่ปุ่น - Mary Read (メアリ・リード)]]
