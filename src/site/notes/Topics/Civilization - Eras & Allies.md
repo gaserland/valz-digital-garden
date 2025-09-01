@@ -21,3 +21,5 @@
 - [[Civilization - Eras & Allies/SS3 Server JP - Anne Bonny\|SS3 Server JP - Anne Bonny]]
 - [[Civilization - Eras & Allies/SS3 Server JP - Mary Read\|SS3 Server JP - Mary Read]]
 - [[Civilization - Eras & Allies/SS3 Server JP - Edward Teach\|SS3 Server JP - Edward Teach]]
+- [[Civilization - Eras & Allies/SS3 Server JP - Magellan\|SS3 Server JP - Magellan]]
+- [[Civilization - Eras & Allies/SS3 Server JP - Lady Six Sky\|SS3 Server JP - Lady Six Sky]]
