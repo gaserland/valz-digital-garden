@@ -17,7 +17,7 @@
 ## Server ญี่ปุ่น
 
 ### Season 3
-- [[Civilization - Eras & Allies/SS3 Server ญี่ปุ่น - Jang Bogo (張保皐)\|SS3 Server ญี่ปุ่น - Jang Bogo (張保皐)]]
-- [[Civilization - Eras & Allies/SS3 Server ญี่ปุ่น - Anne Bonny (アン・ボニー)\|SS3 Server ญี่ปุ่น - Anne Bonny (アン・ボニー)]]
-- [[Civilization - Eras & Allies/SS3 Server ญี่ปุ่น - Mary Read (メアリ・リード)\|SS3 Server ญี่ปุ่น - Mary Read (メアリ・リード)]]
-- [[Civilization - Eras & Allies/SS3 Server ญี่ปุ่น - Edward Teach (エドワード・ティーチ)\|SS3 Server ญี่ปุ่น - Edward Teach (エドワード・ティーチ)]]
+- [[Civilization - Eras & Allies/SS3 Server JP - Jang Bogo\|SS3 Server JP - Jang Bogo]]
+- [[Civilization - Eras & Allies/SS3 Server JP - Anne Bonny\|SS3 Server JP - Anne Bonny]]
+- [[Civilization - Eras & Allies/SS3 Server JP - Mary Read\|SS3 Server JP - Mary Read]]
+- [[Civilization - Eras & Allies/SS3 Server JP - Edward Teach\|SS3 Server JP - Edward Teach]]
