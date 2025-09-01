@@ -12,6 +12,7 @@
 - [[Civilization - Eras & Allies/SS4 Server จีน - Analysis of Naval Warfare Strategy for the Fourth Era\|SS4 Server จีน - Analysis of Naval Warfare Strategy for the Fourth Era]]
 - [[Civilization - Eras & Allies/SS4 Server จีน - Era IV Preview - Land Clearing Strategy Share, Clear Land Easily with Low Losses\|SS4 Server จีน - Era IV Preview - Land Clearing Strategy Share, Clear Land Easily with Low Losses]]
 - [[Civilization - Eras & Allies/SS4 Server จีน - Brilliant Skills Are Coming Soon! Lineup Composition is About to Get More Diverse\|SS4 Server จีน - Brilliant Skills Are Coming Soon! Lineup Composition is About to Get More Diverse]]
+- [[Civilization - Eras & Allies/SS4 Server จีน - Recommendation for Three Co-existing Team Compositions\|SS4 Server จีน - Recommendation for Three Co-existing Team Compositions]]
 
 ## Server ญี่ปุ่น
 
