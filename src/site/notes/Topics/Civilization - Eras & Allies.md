@@ -21,4 +21,3 @@
 - [[Civilization - Eras & Allies/SS3 Server ญี่ปุ่น - Anne Bonny (アン・ボニー)\|SS3 Server ญี่ปุ่น - Anne Bonny (アン・ボニー)]]
 - [[Civilization - Eras & Allies/SS3 Server ญี่ปุ่น - Mary Read (メアリ・リード)\|SS3 Server ญี่ปุ่น - Mary Read (メアリ・リード)]]
 - [[Civilization - Eras & Allies/SS3 Server ญี่ปุ่น - Edward Teach (エドワード・ティーチ)\|SS3 Server ญี่ปุ่น - Edward Teach (エドワード・ティーチ)]]
-- [[Civilization - Eras & Allies/SS3 Server JP - Magellan\|SS3 Server JP - Magellan]]
