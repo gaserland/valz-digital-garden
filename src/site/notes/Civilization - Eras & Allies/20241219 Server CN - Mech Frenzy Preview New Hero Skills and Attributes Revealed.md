@@ -6,14 +6,12 @@
 World启元手游 2024-12-19 Complaint
 Reads: 2885
 Since the Infinite Era **Mecha Frenzy** [Simplified: 机甲狂潮 / Traditional: 機甲狂潮] was announced to officially begin on December 28th, Pioneers have been increasingly anticipating the details of the new heroes. We believe that after reading the detailed information about the new heroes, everyone will have a clear idea for their lineup compositions in the new era.
-
 ## I. Zhu Yuanzhang [Simplified: 朱元璋 / Traditional: 朱元璋]
 
 ![20241219 Server CN - Mech Frenzy Preview New Hero Skills and Attributes Revealed-1757258041619.webp](/img/user/_attachments/20241219%20Server%20CN%20-%20Mech%20Frenzy%20Preview%20New%20Hero%20Skills%20and%20Attributes%20Revealed-1757258041619.webp)
 
 **Innate Skill:** **Rule of Hongwu** [Simplified: 洪武之治 / Traditional: 洪武之治]
 **Hero Role:** Intelligence
-
 ![20241219 Server CN - Mech Frenzy Preview New Hero Skills and Attributes Revealed-1757258076265.webp](/img/user/_attachments/20241219%20Server%20CN%20-%20Mech%20Frenzy%20Preview%20New%20Hero%20Skills%20and%20Attributes%20Revealed-1757258076265.webp)
 
 | Attribute             | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
@@ -43,6 +41,7 @@ Since the Infinite Era **Mecha Frenzy** [Simplified: 机甲狂潮 / Traditional:
 **Title Effect:** The chance for the innate skill to trigger Intelligence damage is increased by 10%.
 **Advancement Effect:** The chance for the innate skill to trigger Intelligence damage is increased by 10%, and the additional effect can be triggered when troops are below 80%.
 
+---
 ## II. Wang Yangming [Simplified: 王阳明 / Traditional: 王陽明]
 
 ![20241219 Server CN - Mech Frenzy Preview New Hero Skills and Attributes Revealed-1757258212068.webp](/img/user/_attachments/20241219%20Server%20CN%20-%20Mech%20Frenzy%20Preview%20New%20Hero%20Skills%20and%20Attributes%20Revealed-1757258212068.webp)
@@ -79,6 +78,7 @@ Since the Infinite Era **Mecha Frenzy** [Simplified: 机甲狂潮 / Traditional:
 **Title Effect:** The trigger chance for all effects of the innate skill is increased by 5%.
 **Advancement Effect:** The trigger chance for all effects of the innate skill is increased by 15%.
 
+---
 ## III. Qi Jiguang [Simplified: 戚继光 / Traditional: 戚繼光]
 
 ![20241219 Server CN - Mech Frenzy Preview New Hero Skills and Attributes Revealed-1757258257091.webp](/img/user/_attachments/20241219%20Server%20CN%20-%20Mech%20Frenzy%20Preview%20New%20Hero%20Skills%20and%20Attributes%20Revealed-1757258257091.webp)
@@ -115,6 +115,7 @@ Since the Infinite Era **Mecha Frenzy** [Simplified: 机甲狂潮 / Traditional:
 **Title Effect:** The damage increase effect of the innate skill is additionally increased by 15%.
 **Advancement Effect:** The damage increase effect of the innate skill is additionally increased by 30%.
 
+---
 ## IV. Newton [Simplified: 牛顿 / Traditional: 牛頓]
 
 ![20241219 Server CN - Mech Frenzy Preview New Hero Skills and Attributes Revealed-1757258341764.webp](/img/user/_attachments/20241219%20Server%20CN%20-%20Mech%20Frenzy%20Preview%20New%20Hero%20Skills%20and%20Attributes%20Revealed-1757258341764.webp)
@@ -124,13 +125,13 @@ Since the Infinite Era **Mecha Frenzy** [Simplified: 机甲狂潮 / Traditional:
 
 ![20241219 Server CN - Mech Frenzy Preview New Hero Skills and Attributes Revealed-1757258351712.webp](/img/user/_attachments/20241219%20Server%20CN%20-%20Mech%20Frenzy%20Preview%20New%20Hero%20Skills%20and%20Attributes%20Revealed-1757258351712.webp)
 
-| Attribute | Description |
-| :--- | :--- |
-| **Skill Type** | Passive Skill |
-| **Activation Chance** | 100.0% |
-| **Target Type** | 2 enemy units |
-| **Effective Range** | - |
-| **Skill Effect** | This hero's Defense attribute is increased by (passive) 20→40 points (affected by Intelligence attribute), and gains the Counter-Tactic state. When receiving a normal attack, deal Counter-Tactic damage to the attacking target (Damage Rate 30%→50%, affected by Intelligence attribute). And when our entire army receives healing (excluding percentage-based recovery from dealing damage), this hero deals 1 instance of Intelligence damage to a random enemy within a range of 3 (Damage Rate 35%→50%, affected by Intelligence attribute). This effect can trigger a maximum of 5 times per round. |
+| Attribute             | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| :-------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Skill Type**        | Passive Skill                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| **Activation Chance** | 100.0%                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| **Target Type**       | 2 enemy units                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| **Effective Range**   | -                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| **Skill Effect**      | This hero's Defense attribute is increased by (passive) 20→40 points (affected by Intelligence attribute), and gains the Counter-Tactic state. When receiving a normal attack, deal Counter-Tactic damage to the attacking target (Damage Rate 30%→50%, affected by Intelligence attribute). And when our entire army receives healing (excluding percentage-based recovery from dealing damage), this hero deals 1 instance of Intelligence damage to a random enemy within a range of 3 (Damage Rate 35%→50%, affected by Intelligence attribute). This effect can trigger a maximum of 5 times per round. |
 
 **Dismantle Skill:** **Blade-Shattering Assault** [Simplified: 破刃强袭 / Traditional: 破刃強襲] (Attack)
 
@@ -151,6 +152,7 @@ Since the Infinite Era **Mecha Frenzy** [Simplified: 机甲狂潮 / Traditional:
 **Title Effect:** This hero's Defense attribute is increased by (pre-battle) 30 points.
 **Advancement Effect:** This hero's Defense attribute is increased by (pre-battle) 30 points, and the damage rate of the innate skill's Counter-Tactic damage is increased by 15%.
 
+---
 ## V. Hypatia [Simplified: 希帕蒂亚 / Traditional: 希帕蒂亞]
 
 ![20241219 Server CN - Mech Frenzy Preview New Hero Skills and Attributes Revealed-1757258389299.webp](/img/user/_attachments/20241219%20Server%20CN%20-%20Mech%20Frenzy%20Preview%20New%20Hero%20Skills%20and%20Attributes%20Revealed-1757258389299.webp)
@@ -187,10 +189,9 @@ Since the Infinite Era **Mecha Frenzy** [Simplified: 机甲狂潮 / Traditional:
 **Title Effect:** The Intelligence attribute increase effect of the innate skill is additionally increased by 5%.
 **Advancement Effect:** The Intelligence attribute increase effect of the innate skill is additionally increased by 5%, and the innate skill's activation rate is increased by 10%.
 
+---
 ## VI. Thales [Simplified: 泰勒斯 / Traditional: 泰勒斯]
-
 ![20241219 Server CN - Mech Frenzy Preview New Hero Skills and Attributes Revealed-1757258418430.webp](/img/user/_attachments/20241219%20Server%20CN%20-%20Mech%20Frenzy%20Preview%20New%20Hero%20Skills%20and%20Attributes%20Revealed-1757258418430.webp)
-
 
 **Innate Skill:** **Rationalism** [Simplified: 理性主义 / Traditional: 理性主義]
 **Hero Role:** Intelligence
