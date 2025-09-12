@@ -191,6 +191,7 @@ Since the Infinite Era **Mecha Frenzy** [Simplified: 机甲狂潮 / Traditional:
 
 ---
 ## VI. Thales [Simplified: 泰勒斯 / Traditional: 泰勒斯]
+
 ![20241219 Server CN - Mech Frenzy Preview New Hero Skills and Attributes Revealed-1757258418430.webp](/img/user/_attachments/20241219%20Server%20CN%20-%20Mech%20Frenzy%20Preview%20New%20Hero%20Skills%20and%20Attributes%20Revealed-1757258418430.webp)
 
 **Innate Skill:** **Rationalism** [Simplified: 理性主义 / Traditional: 理性主義]
