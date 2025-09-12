@@ -8,6 +8,8 @@ Reads: 2885
 Since the Infinite Era **Mecha Frenzy** [Simplified: 机甲狂潮 / Traditional: 機甲狂潮] was announced to officially begin on December 28th, Pioneers have been increasingly anticipating the details of the new heroes. We believe that after reading the detailed information about the new heroes, everyone will have a clear idea for their lineup compositions in the new era.
 ## I. Zhu Yuanzhang [Simplified: 朱元璋 / Traditional: 朱元璋]
 
+![20241219 Server CN - Mech Frenzy Preview New Hero Skills and Attributes Revealed-1757650214272.webp](/img/user/_attachments/20241219%20Server%20CN%20-%20Mech%20Frenzy%20Preview%20New%20Hero%20Skills%20and%20Attributes%20Revealed-1757650214272.webp)
+
 ![20241219 Server CN - Mech Frenzy Preview New Hero Skills and Attributes Revealed-1757258041619.webp](/img/user/_attachments/20241219%20Server%20CN%20-%20Mech%20Frenzy%20Preview%20New%20Hero%20Skills%20and%20Attributes%20Revealed-1757258041619.webp)
 
 **Innate Skill:** **Rule of Hongwu** [Simplified: 洪武之治 / Traditional: 洪武之治]
@@ -43,6 +45,8 @@ Since the Infinite Era **Mecha Frenzy** [Simplified: 机甲狂潮 / Traditional:
 
 ---
 ## II. Wang Yangming [Simplified: 王阳明 / Traditional: 王陽明]
+
+![20241219 Server CN - Mech Frenzy Preview New Hero Skills and Attributes Revealed-1757650228508.webp](/img/user/_attachments/20241219%20Server%20CN%20-%20Mech%20Frenzy%20Preview%20New%20Hero%20Skills%20and%20Attributes%20Revealed-1757650228508.webp)
 
 ![20241219 Server CN - Mech Frenzy Preview New Hero Skills and Attributes Revealed-1757258212068.webp](/img/user/_attachments/20241219%20Server%20CN%20-%20Mech%20Frenzy%20Preview%20New%20Hero%20Skills%20and%20Attributes%20Revealed-1757258212068.webp)
 
@@ -81,6 +85,8 @@ Since the Infinite Era **Mecha Frenzy** [Simplified: 机甲狂潮 / Traditional:
 ---
 ## III. Qi Jiguang [Simplified: 戚继光 / Traditional: 戚繼光]
 
+![20241219 Server CN - Mech Frenzy Preview New Hero Skills and Attributes Revealed-1757650239561.webp](/img/user/_attachments/20241219%20Server%20CN%20-%20Mech%20Frenzy%20Preview%20New%20Hero%20Skills%20and%20Attributes%20Revealed-1757650239561.webp)
+
 ![20241219 Server CN - Mech Frenzy Preview New Hero Skills and Attributes Revealed-1757258257091.webp](/img/user/_attachments/20241219%20Server%20CN%20-%20Mech%20Frenzy%20Preview%20New%20Hero%20Skills%20and%20Attributes%20Revealed-1757258257091.webp)
 
 **Innate Skill:** **Mandarin Duck Formation** [Simplified: 鸳鸯阵 / Traditional: 鴛鴦陣]
@@ -117,6 +123,8 @@ Since the Infinite Era **Mecha Frenzy** [Simplified: 机甲狂潮 / Traditional:
 
 ---
 ## IV. Newton [Simplified: 牛顿 / Traditional: 牛頓]
+
+![20241219 Server CN - Mech Frenzy Preview New Hero Skills and Attributes Revealed-1757650251411.webp](/img/user/_attachments/20241219%20Server%20CN%20-%20Mech%20Frenzy%20Preview%20New%20Hero%20Skills%20and%20Attributes%20Revealed-1757650251411.webp)
 
 ![20241219 Server CN - Mech Frenzy Preview New Hero Skills and Attributes Revealed-1757258341764.webp](/img/user/_attachments/20241219%20Server%20CN%20-%20Mech%20Frenzy%20Preview%20New%20Hero%20Skills%20and%20Attributes%20Revealed-1757258341764.webp)
 
@@ -155,6 +163,8 @@ Since the Infinite Era **Mecha Frenzy** [Simplified: 机甲狂潮 / Traditional:
 ---
 ## V. Hypatia [Simplified: 希帕蒂亚 / Traditional: 希帕蒂亞]
 
+![20241219 Server CN - Mech Frenzy Preview New Hero Skills and Attributes Revealed-1757650271396.webp](/img/user/_attachments/20241219%20Server%20CN%20-%20Mech%20Frenzy%20Preview%20New%20Hero%20Skills%20and%20Attributes%20Revealed-1757650271396.webp)
+
 ![20241219 Server CN - Mech Frenzy Preview New Hero Skills and Attributes Revealed-1757258389299.webp](/img/user/_attachments/20241219%20Server%20CN%20-%20Mech%20Frenzy%20Preview%20New%20Hero%20Skills%20and%20Attributes%20Revealed-1757258389299.webp)
 
 **Innate Skill:** **Light of Mathematics** [Simplified: 数学之光 / Traditional: 數學之光]
@@ -191,6 +201,8 @@ Since the Infinite Era **Mecha Frenzy** [Simplified: 机甲狂潮 / Traditional:
 
 ---
 ## VI. Thales [Simplified: 泰勒斯 / Traditional: 泰勒斯]
+
+![20241219 Server CN - Mech Frenzy Preview New Hero Skills and Attributes Revealed-1757650279160.webp](/img/user/_attachments/20241219%20Server%20CN%20-%20Mech%20Frenzy%20Preview%20New%20Hero%20Skills%20and%20Attributes%20Revealed-1757650279160.webp)
 
 ![20241219 Server CN - Mech Frenzy Preview New Hero Skills and Attributes Revealed-1757258418430.webp](/img/user/_attachments/20241219%20Server%20CN%20-%20Mech%20Frenzy%20Preview%20New%20Hero%20Skills%20and%20Attributes%20Revealed-1757258418430.webp)
 
