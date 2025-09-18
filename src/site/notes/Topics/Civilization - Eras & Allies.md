@@ -14,6 +14,9 @@
 
 ### Season 5
 - [[Civilization - Eras & Allies/20241219 Server CN - Mech Frenzy Preview New Hero Skills and Attributes Revealed\|20241219 Server CN - Mech Frenzy Preview New Hero Skills and Attributes Revealed]]
+- [[Civilization - Eras & Allies/20241219 Server CN - Mecha Frenzy Forward - All-New Unit - Doomsday Mecha Functionality Explained\|20241219 Server CN - Mecha Frenzy Forward - All-New Unit - Doomsday Mecha Functionality Explained]]
+- [[Civilization - Eras & Allies/20241221 Server CN - Mecha Frenzy Preview - No Collusion, Detailed Explanation of Faction Gameplay!\|20241221 Server CN - Mecha Frenzy Preview - No Collusion, Detailed Explanation of Faction Gameplay!]]
+- [[Civilization - Eras & Allies/20241225 Server CN - Mecha Frenzy New Hero Preliminary Analysis, Helping You Understand the Characteristics and Strength of Each New Hero!\|20241225 Server CN - Mecha Frenzy New Hero Preliminary Analysis, Helping You Understand the Characteristics and Strength of Each New Hero!]]
 - [[Civilization - Eras & Allies/20250227 Server CN - Zhou Yu's Jiangzuo Elites Team and Columbus's Point-Kill Team Return! Some Heroes Strengthened\|20250227 Server CN - Zhou Yu's Jiangzuo Elites Team and Columbus's Point-Kill Team Return! Some Heroes Strengthened]]
 ## Server ญี่ปุ่น
 ### Season 3
