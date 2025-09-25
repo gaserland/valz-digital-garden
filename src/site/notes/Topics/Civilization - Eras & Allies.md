@@ -17,6 +17,8 @@
 - [[Civilization - Eras & Allies/20241219 Server CN - Mecha Frenzy Forward - All-New Unit - Doomsday Mecha Functionality Explained\|20241219 Server CN - Mecha Frenzy Forward - All-New Unit - Doomsday Mecha Functionality Explained]]
 - [[Civilization - Eras & Allies/20241221 Server CN - Mecha Frenzy Preview - No Collusion, Detailed Explanation of Faction Gameplay!\|20241221 Server CN - Mecha Frenzy Preview - No Collusion, Detailed Explanation of Faction Gameplay!]]
 - [[Civilization - Eras & Allies/20241225 Server CN - Mecha Frenzy New Hero Preliminary Analysis, Helping You Understand the Characteristics and Strength of Each New Hero!\|20241225 Server CN - Mecha Frenzy New Hero Preliminary Analysis, Helping You Understand the Characteristics and Strength of Each New Hero!]]
+- [[Civilization - Eras & Allies/20250103 Server CN - Expo 3 - The Able and Great Sages Card Pack Review, How to Best Match the New Hero Wang Yangming.\|20250103 Server CN - Expo 3 - The Able and Great Sages Card Pack Review, How to Best Match the New Hero Wang Yangming.]]
+- [[Civilization - Eras & Allies/20250106 Server CN - Expo 4 - Power Against the Heavens Card Pack Review, Magic-Based Vanguard Tank - Newton's Practical Combat Performance Analysis!\|20250106 Server CN - Expo 4 - Power Against the Heavens Card Pack Review, Magic-Based Vanguard Tank - Newton's Practical Combat Performance Analysis!]]
 - [[Civilization - Eras & Allies/20250227 Server CN - Zhou Yu's Jiangzuo Elites Team and Columbus's Point-Kill Team Return! Some Heroes Strengthened\|20250227 Server CN - Zhou Yu's Jiangzuo Elites Team and Columbus's Point-Kill Team Return! Some Heroes Strengthened]]
 ## Server ญี่ปุ่น
 ### Season 3
