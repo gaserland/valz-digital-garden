@@ -20,6 +20,8 @@
 - [[Civilization - Eras & Allies/20250103 Server CN - Expo 3 - The Able and Great Sages Card Pack Review, How to Best Match the New Hero Wang Yangming.\|20250103 Server CN - Expo 3 - The Able and Great Sages Card Pack Review, How to Best Match the New Hero Wang Yangming.]]
 - [[Civilization - Eras & Allies/20250106 Server CN - Expo 4 - Power Against the Heavens Card Pack Review, Magic-Based Vanguard Tank - Newton's Practical Combat Performance Analysis!\|20250106 Server CN - Expo 4 - Power Against the Heavens Card Pack Review, Magic-Based Vanguard Tank - Newton's Practical Combat Performance Analysis!]]
 - [[Civilization - Eras & Allies/20250227 Server CN - Zhou Yu's Jiangzuo Elites Team and Columbus's Point-Kill Team Return! Some Heroes Strengthened\|20250227 Server CN - Zhou Yu's Jiangzuo Elites Team and Columbus's Point-Kill Team Return! Some Heroes Strengthened]]
+
+---
 ## Server ญี่ปุ่น
 ### Season 3
 - [[Civilization - Eras & Allies/SS3 Server JP - Jang Bogo\|SS3 Server JP - Jang Bogo]]
@@ -28,3 +30,9 @@
 - [[Civilization - Eras & Allies/SS3 Server JP - Edward Teach\|SS3 Server JP - Edward Teach]]
 - [[Civilization - Eras & Allies/SS3 Server JP - Magellan\|SS3 Server JP - Magellan]]
 - [[Civilization - Eras & Allies/SS3 Server JP - Lady Six Sky\|SS3 Server JP - Lady Six Sky]]
+
+---
+
+## Server **APAC**
+### After Season 3
+- [[Civilization - Eras & Allies/CivEA AS - Gameplay - Declaration of War\|CivEA AS - Gameplay - Declaration of War]]
